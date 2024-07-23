@@ -1,1 +1,2 @@
-# bubble_sort
+Odin project bubble sort. Sorting numbers without using the #sort method. Created a method that takes an array and returns a sorted array.
+Used the while loop with conditional statement to compare 2 elements each loop and reverse them if statement is true. Used #times method to repeat the loop and sort the array using the bubble sort methodology.
